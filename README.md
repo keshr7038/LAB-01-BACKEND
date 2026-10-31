@@ -1,14 +1,4 @@
-# Lab 1: Node.js and Express Server
 
-## Student Details
-
-- **Name:** Your Name
-- **Registration Number:** Your Registration Number
-- **Section:** Your Section
-
-## Live Link
-
-Deployment is pending. **Public URL:** `https://your-deployed-url.example`
 
 ## Objective
 
