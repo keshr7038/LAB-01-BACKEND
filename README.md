@@ -88,17 +88,3 @@ Add your real screenshots to the `screenshots/` folder after running the project
 - **Express cannot be found:** Run `npm install` from the `lab-01` folder to install the dependencies.
 - **Both servers use port 3000:** Stop one server before starting the other; they cannot listen on the same port at the same time.
 
-## Viva Preparation
-
-### What is the difference between package.json and node_modules?
-
-`package.json` contains project information and lists the dependencies the project needs. `node_modules` contains the actual installed packages.
-
-### What does app.listen() do?
-
-`app.listen()` starts the Express server and makes it listen for requests on a specified port.
-
-### What do request and response represent?
-
-- **Request:** Information sent from the client (such as a browser) to the server.
-- **Response:** Used by the server to send data back to the client.
