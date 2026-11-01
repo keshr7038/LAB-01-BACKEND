@@ -1,7 +1,7 @@
 {
-  "name": "lab-01",
+  "name": "lab-01-node-express",
   "version": "1.0.0",
-  "description": "Lab 1: a basic Node.js HTTP server and Express server",
+  "description": "Lab 1: Node.js HTTP and Express fundamentals",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -16,6 +16,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.3.0"
+    "express": "^5.1.0"
   }
 }
